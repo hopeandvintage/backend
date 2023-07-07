@@ -1,0 +1,169 @@
+MAST_CAT,CAT,TYP,SUBTYP
+Clothing,Accessories,Bags,Bags
+Clothing,Accessories,Bags,Chain Purses
+Clothing,Accessories,Bags,Clutches
+Clothing,Accessories,Bags,Crossbody Bags
+Clothing,Accessories,Bags,Satchels
+Clothing,Accessories,Bags,Totes
+Clothing,Accessories,Bags,Woven Bags
+Clothing,Accessories,Belts,Belt Buckles
+Clothing,Accessories,Belts,Belts
+Clothing,Accessories,Belts,Chain Belts
+Clothing,Accessories,Belts,Fabric Belts
+Clothing,Accessories,Belts,Leather Belts
+Clothing,Accessories,Belts,Western Belts
+Clothing,Accessories,Belts,Woven Belts
+Clothing,Accessories,Hats,Baseball Caps
+Clothing,Accessories,Hats,Caps
+Clothing,Accessories,Hats,Snap Backs
+Clothing,Accessories,Hats,Sun Hats
+Clothing,Accessories,Patches,Patches
+Clothing,Accessories,Scarves,Scarves
+Clothing,Accessories,Shawls,Shawls
+Clothing,Accessories,Travel Bags,Backpacks
+Clothing,Accessories,Travel Bags,Duffel Bags
+Clothing,Accessories,Wallets,Wallets
+Clothing,Clothing,Activewear,Activewear
+Clothing,Clothing,Activewear,Lounge Sets
+Clothing,Clothing,Bodysuits,Bodysuits
+Clothing,Clothing,Cover Ups,Cover Ups
+Clothing,Clothing,Dresses,Cocktail Dresses
+Clothing,Clothing,Dresses,Dresses
+Clothing,Clothing,Dresses,Maxi Dresses
+Clothing,Clothing,Dresses,Midi Dresses
+Clothing,Clothing,Dresses,Mini Dresses
+Clothing,Clothing,Dresses,Slip Dresses
+Clothing,Clothing,Jackets,Blazers
+Clothing,Clothing,Jackets,Bomber Jackets
+Clothing,Clothing,Jackets,Coats
+Clothing,Clothing,Jackets,Denim Jackets
+Clothing,Clothing,Jackets,Jackets
+Clothing,Clothing,Jackets,Leather Jackets
+Clothing,Clothing,Jackets,Rain Coats
+Clothing,Clothing,Jackets,Trench Coats
+Clothing,Clothing,Jackets,Winter Coats
+Clothing,Clothing,Jeans,High Rise Jeans
+Clothing,Clothing,Jeans,Jeans
+Clothing,Clothing,Jeans,Low Rise Jeans
+Clothing,Clothing,Jeans,Mom Jeans
+Clothing,Clothing,Jeans,Wide Leg Jeans
+Clothing,Clothing,Lingerie,Bras
+Clothing,Clothing,Lingerie,Lingerie
+Clothing,Clothing,Lingerie,Lingerie Sets
+Clothing,Clothing,Lingerie,Slips
+Clothing,Clothing,Lingerie,Teddies
+Clothing,Clothing,Pants,Pants
+Clothing,Clothing,Robes,Robes
+Clothing,Clothing,Rompers,Jumpsuits
+Clothing,Clothing,Rompers,Rompers
+Clothing,Clothing,Shirts,Blouses
+Clothing,Clothing,Shirts,Button Up Shirts
+Clothing,Clothing,Shirts,Crop Tops
+Clothing,Clothing,Shirts,Hawaiian Shirts
+Clothing,Clothing,Shirts,Long Sleeve Shirts
+Clothing,Clothing,Shirts,Ponchos
+Clothing,Clothing,Shirts,Tank Tops
+Clothing,Clothing,Shirts,T-Shirts
+Clothing,Clothing,Shirts,Western Shirts
+Clothing,Clothing,Shorts,Shorts
+Clothing,Clothing,Skirts,Maxi Skirts
+Clothing,Clothing,Skirts,Midi Skirts
+Clothing,Clothing,Skirts,Mini Skirts
+Clothing,Clothing,Skirts,Skirts
+Clothing,Clothing,Sleepwear,Nightgowns
+Clothing,Clothing,Sleepwear,Pajama Shorts
+Clothing,Clothing,Sleepwear,Sleepwear
+Clothing,Clothing,Sweaters,Cardigans
+Clothing,Clothing,Sweaters,Sweaters
+Clothing,Clothing,Sweaters,Sweatshirts
+Clothing,Clothing,Swimwear,Bathing Suits
+Clothing,Clothing,Trousers,Trousers
+Clothing,Clothing,Two-Piece Sets,Pantsuits
+Clothing,Clothing,Two-Piece Sets,Two-Piece Sets
+Clothing,Clothing,Vests,Vests
+Clothing,Clothing,Youth,Baby Dresses
+Clothing,Clothing,Youth,Baby Jackets
+Clothing,Clothing,Youth,Baby Sweaters
+Clothing,Jewelry,Bracelets,Bracelets
+Clothing,Jewelry,Clips,Shoe Clips
+Clothing,Jewelry,Earrings,Clip Ons
+Clothing,Jewelry,Earrings,Earrings
+Clothing,Jewelry,Necklaces,Bolo Ties
+Clothing,Jewelry,Necklaces,Necklaces
+Clothing,Jewelry,Pins,Brooches
+Clothing,Jewelry,Pins,Pins
+Clothing,Jewelry,Rings,Rings
+Clothing,Shoes,Boots,Ankle Boots
+Clothing,Shoes,Boots,Cowboy Boots
+Clothing,Shoes,Boots,Tall Boots
+Clothing,Shoes,Heels,Heels
+Clothing,Shoes,Heels,Wedges
+Clothing,Shoes,Sandals,Flip Flops
+Clothing,Shoes,Sandals,Sandals
+Clothing,Shoes,Shoes,Mary Janes
+Decor,Art,Wall Art,Crewels
+Decor,Art,Wall Art,Framed Art
+Decor,Art,Wall Art,Photo Frames
+Decor,Art,Wall Art,Prints
+Decor,Art,Wall Art,Wall Hangings
+Decor,Bedding,Blankets,Knitted Blankets
+Decor,Books,Book Sets,Book Sets
+Decor,Books,Books,Books
+Decor,Books,Books,Childrens Books
+Decor,Books,Books,Textbooks
+Decor,Books,Coffee Table Books,Atlases
+Decor,Books,Coffee Table Books,Coffee Table Books
+Decor,Books,Magazines,Magazines
+Decor,Decor,Bottles,Bottles
+Decor,Decor,Bottles,Purfume Bottles
+Decor,Decor,Figurines,Bookends
+Decor,Decor,Figurines,Coin Banks
+Decor,Decor,Figurines,Figurines
+Decor,Decor,Figurines,Paperweights
+Decor,Decor,Figurines,Scales
+Decor,Decor,Figurines,Timers
+Decor,Decor,Globes,Globes
+Decor,Decor,Planters,Planters
+Decor,Decor,Storage,Jewelry Boxes
+Decor,Decor,Storage,Tissue Boxes
+Decor,Decor,Storage,Trinket Boxes
+Decor,Decor,Storage,Vessels
+Decor,Decor,Trays,Trays
+Decor,Decor,Trays,Trinket Dishes
+Decor,Decor,Vases,Vases
+Decor,Decor,Wall Art,Wall Art
+Decor,Decor,Wall Art,Wall Decor
+Decor,Florals,Florals,Flower Frogs
+Decor,Glassware,Ashtrays,Ashtrays
+Decor,Home & Garden,Organization,Art Displays
+Decor,Home & Garden,Organization,Towel Holders
+Decor,Kitchen & Dining,Bakeware,Molds
+Decor,Kitchen & Dining,Bakeware,Pie Pans
+Decor,Kitchen & Dining,Barware,Decanters
+Decor,Kitchen & Dining,Barware,Rocks Glasses
+Decor,Kitchen & Dining,Barware,Wine Chillers
+Decor,Kitchen & Dining,Cookware,Pots
+Decor,Kitchen & Dining,Decor,Coasters
+Decor,Kitchen & Dining,Decor,Magnets
+Decor,Kitchen & Dining,Decor,Tablecloths
+Decor,Kitchen & Dining,Drinkware,Mugs
+Decor,Kitchen & Dining,Drinkware,Tumblers
+Decor,Kitchen & Dining,Serveware,Bowls
+Decor,Kitchen & Dining,Serveware,Butter Dishes
+Decor,Kitchen & Dining,Serveware,Dishware Sets
+Decor,Kitchen & Dining,Serveware,Napkin Rings
+Decor,Kitchen & Dining,Serveware,Pitchers
+Decor,Kitchen & Dining,Serveware,Plates
+Decor,Kitchen & Dining,Serveware,Serving Dishes
+Decor,Kitchen & Dining,Serveware,Serving Trays
+Decor,Kitchen & Dining,Stemware,Goblets
+Decor,Kitchen & Dining,Stemware,Margarita Glasses
+Decor,Kitchen & Dining,Stemware,Martini Glasses
+Decor,Kitchen & Dining,Stemware,Wine Glasses
+Decor,Kitchen & Dining,Storage,Dispensers
+Decor,Kitchen & Dining,Storage,Shakers
+Decor,Lighting,Candle Holders,Candle Holders
+Decor,Lighting,Candle Holders,Candle Sticks
+Decor,Lighting,Candle Holders,Fairy Lamps
+Other,Other,Bonus,Tip
+Other,Wholesale,Decor,Disco Ball

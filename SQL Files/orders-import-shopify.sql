@@ -31,6 +31,15 @@ PROD_INFO AS (
     `hopeandvintage-389021.raw_exports.orders-shopify-junjul23` SE
   GROUP BY
     SE.MER_ORDR_ID 
+  ),
+COST_INFO AS (
+  SELECT
+    SP.ORDR_ID,
+    SUM(SP.QTY * SP.COST) AS COST
+  FROM
+    `hopeandvintage-389021.orders.sold-products-junjul23` SP
+  GROUP BY
+    SP.ORDR_ID
   )
 SELECT
   O.ORDR_ID,
@@ -42,16 +51,22 @@ SELECT
   P.ITEM_CNT,
   CAST(P.PRICE AS FLOAT64) AS PRICE,
   O.DISC,
+  O.DISC_CDE,
   O.SUBTOT,
   O.TAX,
   O.SHP,
   O.TOT AS NET,
-  O.DISC_CDE
+  C.COST,
+  O.TOT - C.COST AS GROSS  
 FROM
   ALL_ORDRS O
 LEFT JOIN
   PROD_INFO P
 ON
   O.ORDR_ID = P.ORDR_ID
+LEFT JOIN
+  COST_INFO C
+ON
+  O.ORDR_ID = C.ORDR_ID
 ORDER BY
   O.ORDR_ID ASC
